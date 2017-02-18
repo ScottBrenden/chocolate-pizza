@@ -4,12 +4,17 @@ body {
 }
 
 header {
-  position: relative;
-  background: #aaa;
+  /*position: relative;*/
+  /*background: #aaa;*/
   height: 100px;
-
   margin: 0 auto 0 auto;
 }
+
+h4 {
+  color: #777;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
 #soc-media {
   float: right;
   margin-top: 30px;
@@ -17,20 +22,25 @@ header {
 
 #logo {
   float: left;
+  margin-left: auto;
 }
 
 #logo-name {
   display: inline-block;
+}
 
+#ch-piz {
+  font-family: 'Fjalla One', sans-serif;
 }
 
 #delicious {
   font-size: 30px;
   margin-bottom: -25px;
+  font-family: 'Playball', cursive;
 }
 
 #title-box {
-  background: #ddd;
+  /*background: #ddd;*/
   height: 120px;
   margin: 0 auto 0 auto;
 }
@@ -90,4 +100,38 @@ li {
 
 footer {
 
+}
+
+#prof-pic {
+  float: left;
+}
+
+#share-button {
+  float: right;
+  width: 155px;
+  height: 50px;
+  background: #bc7058;
+  color: #fff;
+  text-align: center;
+  font-family: 'Open Sans Condensed', sans-serif;
+  border-radius: 3px;
+}
+
+#prof-name {
+  float: left;
+  margin: -15px 5px;
+  padding-bottom: -15px;
+}
+
+#prof-name p {
+  margin-top: -15px;
+}
+
+#prof-contain {
+  height: 100px;
+  margin-bottom: 50px;
+}
+
+#sm-logo {
+  margin: 0 50%;
 }
