@@ -1,0 +1,93 @@
+body {
+  width: 960px;
+  margin: 0 auto;
+}
+
+header {
+  position: relative;
+  background: #aaa;
+  height: 100px;
+
+  margin: 0 auto 0 auto;
+}
+#soc-media {
+  float: right;
+  margin-top: 30px;
+}
+
+#logo {
+  float: left;
+}
+
+#logo-name {
+  display: inline-block;
+
+}
+
+#delicious {
+  font-size: 30px;
+  margin-bottom: -25px;
+}
+
+#title-box {
+  background: #ddd;
+  height: 120px;
+  margin: 0 auto 0 auto;
+}
+
+#title-text {
+  float: left;
+}
+
+h1 {
+  font-size: 50px;
+  margin-bottom: -25px;
+}
+
+#print {
+  float: right;
+  margin-top: 50px;
+}
+
+#print img {
+  display: inline;
+}
+
+#print h4 {
+  display: inline;
+}
+
+#main-img {
+  width: 100%;
+}
+
+#ingreds {
+  background-image: url("C:\\Users\\Scott\\CodeFellows\\201\\201d19\\seattle-201d19\\class-10-js_debugging-wireframe_part_2\\lab-assets\\list-bg.png");
+  background-size: cover;
+  width: 960px;
+  height: 325.688px;
+  background: ##fefbea;
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style-type: square;
+  font-size: 20px;
+}
+
+#right-list {
+  display: inline-block;
+  margin-left: 150px;
+}
+
+#left-list {
+  display: inline-block;
+}
+
+li {
+  margin-bottom: 20px;
+}
+
+footer {
+
+}
